@@ -1,0 +1,5 @@
+{
+  "remoteServiceBaseUrl": "https://gingerapp.azurewebsites.net",
+  "appBaseUrl": "http://localhost:4200",
+  "environment": "Development"
+}

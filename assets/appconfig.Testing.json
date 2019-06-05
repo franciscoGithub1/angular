@@ -1,0 +1,4 @@
+{
+    "remoteServiceBaseUrl": "http://localhost:82",
+    "appBaseUrl": "http://localhost:4200"
+}
